@@ -34,11 +34,6 @@ I’m passionate about cybersecurity, ethical hacking, and building real-world s
 
 ---
 
-### 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityachaudhari18&show_icons=true&theme=radical)
-
----
-
 ### 📈 Goals
 - 🎯 Become a **SOC Analyst / Cybersecurity Engineer**
 - 🌍 Pursue **Master’s in Cybersecurity (Germany)**
