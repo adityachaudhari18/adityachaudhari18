@@ -37,7 +37,7 @@ I’m passionate about cybersecurity, ethical hacking, and building real-world s
 ### 📈 Goals
 - 🎯 Become a **SOC Analyst / Cybersecurity Engineer**
 - 🌍 Pursue **Master’s in Cybersecurity (Germany)**
-- 🧠 Continuously improve in **Red Teaming & Blue Teaming**
+- 🧠 Continuously improve in **Blue Teaming**
 
 ---
 
