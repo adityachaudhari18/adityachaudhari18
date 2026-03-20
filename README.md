@@ -11,7 +11,7 @@ I’m passionate about cybersecurity, ethical hacking, and building real-world s
 - 🌱 I’m currently learning **Cybersecurity, SIEM (Splunk), Networking & Threat Detection**
 - 👯 I’m looking to collaborate on **Cybersecurity & Open Source Security Tools**
 - 💬 Ask me about **Ethical Hacking, SOC, Networking Basics**
-- 📫 How to reach me: **[Add your LinkedIn / Email here]**
+- 📫 How to reach me: cyberly66@gmail.com 
 - ⚡ Fun fact: **I can solve a Rubik's cube in under a minute 🧠**
 
 ---
