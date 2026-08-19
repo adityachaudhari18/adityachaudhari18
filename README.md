@@ -30,7 +30,7 @@ I’m passionate about cybersecurity, ethical hacking, and building real-world s
 - 🧪 **WebGoat Practice Lab** – Hands-on vulnerable web app testing  
 - ⌨️ **Keylogger (Python)** – Understanding system-level monitoring  
 - 🌐 **Hotel Booking Website (with MySQL)** – Full-stack project with database integration  
-- 🛡️ **Home SOC Lab (In Progress)** – Log monitoring & threat detection setup  
+- 🛡️ **Home SOC Lab** – Log monitoring & threat detection setup  
 
 ---
 
