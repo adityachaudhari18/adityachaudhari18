@@ -13,7 +13,6 @@ I’m passionate about cybersecurity, ethical hacking, and building real-world s
 - 💬 Ask me about **Ethical Hacking, SOC, Networking Basics**
 - 📫 How to reach me: **cyberly66@gmail.com**
 - TRYHACKME Username: **AdityaChaudhari**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute 🧠**
 
 ---
 
